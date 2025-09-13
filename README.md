@@ -1,0 +1,18 @@
+# About
+
+Opens with Altium Designer 10.589.22577
+
+Also, view it online in Altium 360:
+
+https://www.altium.com/viewer/
+
+Uploading the raw link to git schematic:
+
+```
+https://raw.githubusercontent.com/federicogramos/compuertas/main/compuertas.SchDoc
+```
+
+PCB link to upload in viewer:
+```
+https://raw.githubusercontent.com/federicogramos/compuertas/main/compuertas.PcbDoc
+```
