@@ -6,7 +6,7 @@ Also, view it online in Altium 360:
 
 https://www.altium.com/viewer/
 
-Uploading the raw link to git schematic:
+Uploading the raw link to git schematic, paste this link in Altium Viewer:
 
 ```
 https://raw.githubusercontent.com/federicogramos/compuertas/main/compuertas.SchDoc
